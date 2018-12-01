@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "204952290332",
+    "firebase_url": "https://exam2-7d131.firebaseio.com",
+    "project_id": "exam2-7d131",
+    "storage_bucket": "exam2-7d131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204952290332:android:3636325a9af05872",
+        "android_client_info": {
+          "package_name": "june.delachica.com.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204952290332-b0r21rhf5sl9oq3pmn78u16cej92ep7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "june.delachica.com.exam2",
+            "certificate_hash": "c48c51c7a14588deec617fa9d5e12a1321f5987c"
+          }
+        },
+        {
+          "client_id": "204952290332-qir7a130e5sa54m95pm7k93hqchcbm94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0b2IRZi0vcDsmEkAgVO6aSgpqNO1LLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204952290332-qir7a130e5sa54m95pm7k93hqchcbm94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
